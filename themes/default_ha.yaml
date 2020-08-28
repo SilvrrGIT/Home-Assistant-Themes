@@ -66,6 +66,7 @@ default_ha:
   switch-unchecked-button-color: "#ffffff"
   table-row-background-color: "#e5e5e5"
   table-row-alternative-background-color: "#ffffff"
+  lovelace-background: "#fafafa"
 
   # The items below are some additional variables I have identified to control the theme
   # I do not have equivelent values for the default theme for these items
