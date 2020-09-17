@@ -52,6 +52,26 @@ default_ha:
   paper-green-400: "#66bb6a"
   paper-blue-400: "#42a5f5"
   paper-orange-400: "#ffa726"
+  
+  #For Code Editor
+  codemirror-keyword: "#C792EA"
+  codemirror-operator: "#89DDFF"
+  codemirror-variable: "#f07178"
+  codemirror-variable-2: "#EEFFFF"
+  codemirror-variable-3: "#DECB6B"
+  codemirror-builtin: "#FFCB6B"
+  codemirror-atom: "#F78C6C"
+  codemirror-number: "#FF5370"
+  codemirror-def: "#82AAFF"
+  codemirror-string: "#C3E88D"
+  codemirror-string-2: "#f07178"
+  codemirror-comment: "#545454"
+  codemirror-tag: "#FF5370"
+  codemirror-meta: "#FFCB6B"
+  codemirror-attribute: "#C792EA"
+  codemirror-property: "#C792EA"
+  codemirror-qualifier: "#DECB6B"
+  codemirror-type: "#DECB6B"
 
   # The items below are some additional variables I have identified to control the theme
   # I have applied colors based on what the default theme of HA renders
