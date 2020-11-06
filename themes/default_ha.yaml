@@ -81,19 +81,24 @@ default_ha:
   label-badge-text-color: "#ffffff"
   label-badge-background-color: "#ffffff"
   sidebar-background-color: "#ffffff"
-  sidebar-icon-color: "#03a9f4"
-  switch-checked-color: "#03a9f4"
-  switch-unchecked-button-color: "#ffffff"
   table-row-background-color: "#e5e5e5"
   table-row-alternative-background-color: "#ffffff"
   lovelace-background: "#fafafa"
   header-height: "64px"
+  sidebar-icon-color: "#7a7a7a"
+  app-header-text-color: "#ffffff"
+  sidebar-selected-text-color: "#03a9f4"
+  app-header-background-color: "#03a9f4"
+  switch-checked-color: "#03a9f4"
+  switch-unchecked-button-color: "#ffffff"
 
   # The items below are some additional variables I have identified to control the theme
   # I do not have equivelent values for the default theme for these items
 
   #ha-card-box-shadow: "0px 0px 0px -5px rgba(0,0,0,1)"
   #switch-unchecked-color: "#828282"
+  #switch-unchecked-color: "#7a7a7a"
+  #switch-unchecked-track-color: "#9e9e9e"
 
 ####################################################
 #                                                  #
